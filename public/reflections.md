@@ -22,8 +22,8 @@
 
 ## In the activities that were done in class, list at least two that you think were effective and at least two that you think not effective in helping you understand topics in our course and why?
 1. **Effective**
-   * Coding Exercises - Doing hands-on coding exercises helped me apply what we learned right away. Writing actual code and testing it in the browser made me understand concepts better than just reading about them. It also showed me where I was making mistakes so I could fix them quickly.
-   * Group Work - Working with classmates on small coding challenges was helpful because we could share ideas and explain topics to each other. Sometimes my classmates explained things in a way that was easier for me to understand. This made learning less stressful and more fun.
+   * **Coding Exercises** - Doing hands-on coding exercises helped me apply what we learned right away. Writing actual code and testing it in the browser made me understand concepts better than just reading about them. It also showed me where I was making mistakes so I could fix them quickly.
+   * **Group Work** - Working with classmates on small coding challenges was helpful because we could share ideas and explain topics to each other. Sometimes my classmates explained things in a way that was easier for me to understand. This made learning less stressful and more fun.
 2. **Not Effective**
    * I feel like the whole course and the activities that were done in class were really effective because all the activities helped me understand JavaScript better. The coding exercises were effective since they made me practice right away. I also found the demonstrations helpful because everything was explained step by step. Honestly, nothing felt less or not effective because everything we did added to my understanding in some way.
 
